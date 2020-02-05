@@ -39,4 +39,16 @@
         xsi:type="archimate:Resource"
         href="Resource_d457f027-669d-4fde-9b9d-9d455f0a9806.xml#d457f027-669d-4fde-9b9d-9d455f0a9806"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0fafa667-08a7-40f1-b511-9e9947f69524">
+    <bounds
+        x="103"
+        y="226"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_c5a17793-7012-44fc-bf9b-f836c3187151.xml#c5a17793-7012-44fc-bf9b-f836c3187151"/>
+  </children>
 </archimate:ArchimateDiagramModel>
